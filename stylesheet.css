@@ -422,13 +422,13 @@ there.
 }
 
 .grid-header{
-  font-size: 1.2em;
+  font-size: 1.0em;
   font-weight: bold;
   padding: 2px 2px 2px 2px;
 }
 
 .grid-content{
-  font-size: 1.0em;
+  font-size: 0.8em;
   padding: 2px 2px 2px 2px;
 }
 
